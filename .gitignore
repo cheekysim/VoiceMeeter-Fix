@@ -1,4 +1,5 @@
 package.py
 *.spec
+*.lnk
 build/
 dist/

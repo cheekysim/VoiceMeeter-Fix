@@ -3,3 +3,4 @@ package.py
 *.lnk
 build/
 dist/
+/.venv
